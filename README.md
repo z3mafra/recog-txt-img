@@ -56,10 +56,12 @@ No GItHub foi criado o diretório 'inputs' no repositório recog-txt-img
 > - Preenchi: inputs/test.md  
 > - Opção: Commit changes.  
 > - Dentro do diretório 'inputs': "Add File".  
-> - Opção:
-![Upload files](https://fontawesome.com/icons/arrow-up-from-bracket?f=classic&s=solid)  
-> - Cliquei em "Criar repositório".  
-> - .  
+> - Opção: Upload files 
+> - Cliquei em "Choose your files".  
+> - Carregou o conjunto de imagens.  
+>
+
+Foram salvas as imagens, utilizadas observando os nomes para manter a ordem em que foram testadas, conforme os arquivos sugeridos na documentação, em quatro grupos: detect-faces-store-camera; exm-ocr-images; image-analysis-store-camera.  
 
 -------
 
@@ -70,6 +72,20 @@ Na maquina local, na raiz do repositório 'regog-txt-img', foi crido o diretóri
 '''bash
 $ mkdir output
 '''  
+
+No GItHub foi criado o diretório 'inputs' no repositório recog-txt-img
+
+> Comandos/configurações:  
+> 
+> - Botão: "Add File".  
+> - Opção: + Create new file.  
+> - Preenchi: output/test.md  
+> - Opção: Commit changes.  
+> - Dentro do diretório 'inputs': "Add File".  
+> - Opção: Upload files 
+> - Cliquei em "Choose your files".  
+> - Carregou o conjunto de imagens.
+>
 
 Foram salvas as imagens, utilizadas observando os nomes para manter a ordem em que foram testadas, em quatro grupos: detect-faces-output-store-camera; exm-ocr-output-images; image-analysis-output-store-camera.  
 
