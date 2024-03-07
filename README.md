@@ -97,13 +97,18 @@ Foram salvas as imagens, utilizadas observando os nomes para manter a ordem em q
 
 ### 4.1. Criar um arquivo readme.md  
 
-Na maquina local, na raiz do repositório 'regog-txt-img', foi crido o arquivo 'readme.md'  
+No GItHubna raiz do repositório 'regog-txt-img', foi crido o arquivo 'readme.md'.
 
-'''bash
-$ touch readme.md
-'''  
+> Comandos/configurações:  
+> 
+> - Botão: "Add File".  
+> - Opção: + Create new file.  
+> - Preenchi: readme.md  
+> - Opção: Commit changes.  
+>
 
-Com o arquivo criado abri o VSCode para editar
+Após a criação do arquivo, no diretório local foi feito o git pull do repositório.  
+O arquivo foi editado no editor do GitHub e com o auxílio do VSCode no diretório local.  
 
 -------
 
