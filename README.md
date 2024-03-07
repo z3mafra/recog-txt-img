@@ -36,6 +36,8 @@ $ mkdir inputs
 '''  
 
 Foram salvas as imagens, utilizadas observando os nomes para manter a ordem em que foram testadas, em quatro grupos: detect-faces-store-camera; exm-ocr-images; image-analysis-store-camera.  
+  
+-------
 
 ## 3. Criar uma pasta chamado 'output' e salve os resultados de reconhecimento de texto nessas imagens  
 
