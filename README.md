@@ -120,7 +120,7 @@ Nos três casos é necessário criar um recurso Azure AI services, na própria i
 
 >- 1. Entrar no portal Azure (https://portal.azure.com).  
 >- 2. Clicar no botão ＋Create a resource e encnotrar o Azure AI services. Selecione  create um plano Azure AI services.  
->-   Na pagina para criar o recurso Azure AI services, Configure os seguintes itens:  
+>-    >> Na pagina para criar o recurso Azure AI services, Configure os seguintes itens:  
 >-   - Subscription: Azure subscription 1.  
 >-   - Resource group: LabVision.  
 >-   - Region: East US.  
