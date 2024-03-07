@@ -1,7 +1,5 @@
 # Vision Studio: Detect faces; Read text; e, Analyze images
-## Entrega do projeto
-
-## Repositório: recog-txt-img
+## Entrega do projeto: Repositório: recog-txt-img
 
 Desafio:
 
