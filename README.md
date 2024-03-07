@@ -100,7 +100,7 @@ Foram salvas as imagens, utilizadas observando os nomes para manter a ordem em q
 No GItHubna raiz do repositório 'regog-txt-img', foi crido o arquivo 'readme.md'.
 
 > Comandos/configurações:  
-> 
+>  
 > - Botão: "Add File".  
 > - Opção: + Create new file.  
 > - Preenchi: readme.md  
