@@ -227,7 +227,16 @@ Antes de finalizar o desafio, uma providência importate é limpar (Clean up) o 
 ### **Clean up**  
 Como é recomendado na documentção, senão se pretende fazer mais exercícios, excluir todos os recursos que não precisa mais. Isso evita acumular custos desnecessários.  
 >    1. Abra o portal do Azure (<https://portal.azure.com/>) e selecione o grupo de recursos que contém o recurso que você criou.  
->    2. Selecione o recurso e selecione Excluir e depois Sim para confirmar. O recurso é então excluído.  
+>    2. Selecione o recurso e selecione Excluir e depois Sim para confirmar. O recurso é então excluído.
+>
+
+### **Postar link do repositório**
+Como é recomendado na documentção, senão se pretende fazer mais exercícios, excluir todos os recursos que não precisa mais. Isso evita acumular custos desnecessários.  
+>    1. Abra o portal da DIO (<https://www.dio.me/>), com as credenciais e selecione o [Bootcamp Microsoft AZure AI Fundamentals](https://web.dio.me/track/microsoft-azure-ai-fundamentals).
+>    2. Entra na Atividade Desafio de projeto: "Reconhecimento Facial e transformação de imagens em Dados no Azure ML"
+>    3. Clica no botão "ENTREGAR PROJETO" 
+>    4. Cola o link do projeto na caixa de texto "Repositório do Projeto"; Cola a descrição do repositório; Ler e marcar o Check box "Termos de uso", concordando com os termos o recurso; e, selecione Entregar e depois Sim para confirmar. O recurso é então excluído.
+>
 
 -------
 
