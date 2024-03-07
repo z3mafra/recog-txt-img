@@ -91,7 +91,7 @@ Foram salvas as imagens, utilizadas observando os nomes para manter a ordem em q
 
 >[!NOTE]
 >
-> Os arquivos de imagens foram baixados nas etapas:  
+> Os arquivos de imagens foram baixados, respectivamente, nas etapas:  
 >   - 4.1. (https://aka.ms/mslearn-detect-faces), para o arquivo 'detect-faces.zip';  
 >   - 4.2. ( https://aka.ms/mslearn-ocr-images), para o arquivo 'ocr-images.zip'; e,   
 >   - 4.3. (https://aka.ms/mslearn-ocr-images), para o arquivo 'ocr-images.zip'.  
@@ -165,6 +165,22 @@ Configuração do Detect faces no Vision Studio:
   
 #### *4.2.2. Read text*  
 
+Configuração para extrir texto de imagens no Vision Studio:  
+
+>- 1. No navegador, ir até o Vision Studio (https://portal.vision.cognitive.azure.com).  
+>- 2. Na página "Getting started with Vision", selecinar a aba "Optical character recognition”, e o card com o título "Extract text from images”.
+>- 3. Marcar o check box "Try It Out subheading, acknowledge the resource usage policy".  
+>- 4. Selecionar imagens em (https://aka.ms/mslearn-ocr-images) para baixar o arquivo "ocr-images.zip". Abrir folder no computador.  
+>- 5. Localizar e subir o arquivo nameado 'exm-ocr-images-advert.jpg'; que contém a seguinte imagem:  
+
+<img src="https://github.com/z3mafra/recog-txt-img/blob/main/inputs/exm-ocr-images-advert.jpg" width="50%">
+
+>- 7. Observe a informação que retorna da análise. Na imagem, a localização do texto é indicada por uma caixa delimitadora, conforme mostrado aqui:  
+
+<img src="https://github.com/z3mafra/recog-txt-img/blob/main/output/exm-ocr-images-output-advert.jpg" width="50%">
+
+-------
+ 
 #### *4.2.3. Analyze images*  
 
 -------
