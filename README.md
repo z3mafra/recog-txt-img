@@ -25,6 +25,17 @@ Depois, iniciei o diretório como um repositório no Git.
 $ git init
 '''
 
+No GItHub foi criado o repositório recog-txt-img
+
+> Comandos
+> - "Novo repositório".  
+> - Nome para o repositório: "auto-machine-learning".  
+> - Descrição: "Projeto Vision Studio com três processos de identificação: Detect faces; Read text; e, Analyze images.".  
+> - Visibilidade: "pública".  
+> - Opção: LEIAME.  
+> - Cliquei em "Criar repositório".  
+> - .  
+
 -------
 
 ## 2. Criar uma pasta chamada 'inputs' e salve as imagens que você utilizou  
