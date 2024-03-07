@@ -35,7 +35,7 @@ No GItHub foi criado o repositório recog-txt-img
 > - Visibilidade: "pública".  
 > - Opção: LEIAME.  
 > - Cliquei em "Criar repositório".  
-> - .  
+> 
 
 -------
 
