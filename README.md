@@ -61,8 +61,15 @@ No GItHub foi criado o diretório 'inputs' no repositório recog-txt-img
 > - Carregou o conjunto de imagens.  
 >
 
-Foram salvas as imagens, utilizadas observando os nomes para manter a ordem em que foram testadas, conforme os arquivos sugeridos na documentação, em quatro grupos: detect-faces-store-camera; exm-ocr-images; image-analysis-store-camera.  
+Foram salvas as imagens, utilizadas observando a codificação dos nomes para manter a ordem em que foram testadas, conforme os arquivos sugeridos na documentação, em quatro grupos: detect-faces-store-camera; exm-ocr-images; image-analysis-store-camera.  
 
+>[!NOTE]
+>
+> Os arquivos de imagens foram baixados, respectivamente, nas etapas:  
+>   - 4.2.1. (https://aka.ms/mslearn-detect-faces), para o arquivo 'detect-faces.zip';  
+>   - 4.2.2. ( https://aka.ms/mslearn-ocr-images), para o arquivo 'ocr-images.zip'; e,   
+>   - 4.2.3. (https://aka.ms/mslearn-ocr-images), para o arquivo 'ocr-images.zip'.  
+>
 -------
 
 ## 3. Criar uma pasta chamado 'output' e salve os resultados de reconhecimento de texto nessas imagens  
@@ -87,15 +94,16 @@ No GItHub foi criado o diretório 'inputs' no repositório recog-txt-img
 > - Carregou o conjunto de imagens.
 >
 
-Foram salvas as imagens, utilizadas observando os nomes para manter a ordem em que foram testadas, em quatro grupos: detect-faces-output-store-camera; exm-ocr-output-images; image-analysis-output-store-camera.  
+Foram salvas as imagens, utilizadas observando a codificação dos nomes para manter a ordem em que foram testadas, em quatro grupos: detect-faces-output-store-camera; exm-ocr-output-images; image-analysis-output-store-camera.  
 
 >[!NOTE]
 >
-> Os arquivos de imagens foram baixados, respectivamente, nas etapas:  
->   - 4.1. (https://aka.ms/mslearn-detect-faces), para o arquivo 'detect-faces.zip';  
->   - 4.2. ( https://aka.ms/mslearn-ocr-images), para o arquivo 'ocr-images.zip'; e,   
->   - 4.3. (https://aka.ms/mslearn-ocr-images), para o arquivo 'ocr-images.zip'.  
+> Os arquivos de imagens foram gerados nos testes, respectivamente, nas etapas:  
+>   - 4.2.1. Detect faces, passo 7;  
+>   - 4.2.2. Read text, passo 6; e,   
+>   - 4.2.3. Analyze images, passo 6.  
 >
+
 -------
 
 ## 4. Criar um arquivo readme.md, incluir Prints e descrição do processo, Insights e Possibilidades aprendidas  
@@ -168,7 +176,7 @@ Configuração para extrir texto de imagens no Vision Studio:
 
 <img src="https://github.com/z3mafra/recog-txt-img/blob/main/inputs/exm-ocr-images-advert.jpg" width="50%">
 
->- 7. Observe a informação que retorna da análise. Na imagem, a localização do texto é indicada por uma caixa delimitadora, conforme mostrado aqui:  
+>- 6. Observe a informação que retorna da análise. Na imagem, a localização do texto é indicada por uma caixa delimitadora, conforme mostrado aqui:  
 
 <img src="https://github.com/z3mafra/recog-txt-img/blob/main/output/exm-ocr-output-images-advert.jpg" width="50%">
 
