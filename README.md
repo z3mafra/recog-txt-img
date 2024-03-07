@@ -122,14 +122,14 @@ Nos três casos é necessário criar um recurso Azure AI services, na própria i
 
 >- 2. Clicar no botão ＋Create a resource e encnotrar o Azure AI services. Selecione  create um plano Azure AI services.  
 
-       Na pagina para criar o recurso Azure AI services, Configure os seguintes itens:  
+  Na pagina para criar o recurso Azure AI services, Configure os seguintes itens:  
        
-          - Subscription: Azure subscription 1.  
-          - Resource group: LabVision.  
-          - Region: East US.  
-          - Name: DioFaceLab.  
-          - Pricing tier: Standard S0.  
-          - By checking this box I acknowledge that I have read and understood all the terms below: Selected.  
+   - Subscription: Azure subscription 1.  
+   - Resource group: LabVision.  
+   - Region: East US.  
+   - Name: DioFaceLab.  
+   - Pricing tier: Standard S0.  
+   - By checking this box I acknowledge that I have read and understood all the terms below: Selected.  
 
 >- 3. Select Review + create then Create and wait for deployment to complete.
 
