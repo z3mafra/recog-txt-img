@@ -119,19 +119,18 @@ Foram abordados três processos de identificação no Vision Studio: Detect face
 Nos três casos é necessário criar um recurso Azure AI services, na própria inscrição Azure.  
 
 >- 1. Entrar no portal Azure (https://portal.azure.com).  
->- 2. Clicar no botão ＋Create a resource e encnotrar o Azure AI services. Selecione  create um plano Azure AI services.  
->-    >> Na pagina para criar o recurso Azure AI services, Configure os seguintes itens:  
+>- 2. Clicar no botão ＋Create a resource e encnotrar o Azure AI services. Selecionei "criar um plano Azure AI services".  
+>-    >> Na pagina para criar o recurso Azure AI services, Configurei os seguintes itens:  
 >-   - Subscription: Azure subscription 1.  
 >-   - Resource group: LabVision.  
 >-   - Region: East US.  
 >-   - Name: DioFaceLab.  
 >-   - Pricing tier: Standard S0.  
->-   - By checking this box I acknowledge that I have read and understood all the terms below: Selected.  
->- 3. Select Review + create then Create and wait for deployment to complete.
+>-   - Selecinei o check box: "I acknowledge that I have read and understood all the terms below.  
+>- 3. Selecionei Review + create then Create e aguardei a implantação se completar.
 
-On the Select a resource to work with page, hover your mouse cursor over the resource you created above in the list and then check the box to the left of the resource name, then select Select as default resource.
-
-
+Na página "Select a resource to work with", passando o cursor do mouse sobre o recurso criado na lista, marcar o check box á esquerda do nomr do recurso, depois clicar no botão "Select as default resource". 
+Com isso a configuração básica do Visioon Studio está pronta e pode-se trabalhar com as ferramentas de identificação disponíveis.
 
 #### *4.2.1. Detect faces*  
 
