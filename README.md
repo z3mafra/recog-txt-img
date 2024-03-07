@@ -7,7 +7,7 @@ Desafio:
 2. Criar uma pasta chamada 'inputs' e salve as imagens que você utilizou;  
 3. Criar uma pasta chamado 'output' e salve os resultados de reconhecimento de texto nessas imagens;  
 4. Criar um arquivo chamado readme.md, deixe alguns prints descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo;  
-5. Compartilhe conosco o link desse repositório através do botão 'entregar projeto'.  
+5. Compartilhar conosco o link desse repositório através do botão 'entregar projeto'.  
   
 -------
 
@@ -220,6 +220,15 @@ Analyze Images: Esse recurso permite extrair insights valiosos de imagens. Em ap
 
 -------
 
-## 5. Compartilhe conosco o link desse repositório através do botão 'entregar projeto'  
-  
+## 5. Compartilhar o link do repositório através do botão 'entregar projeto'  
+
+Antes de finalizar o desafio, uma providência importate é limpar (Clean up) o Visio Studio, deletando os recrusos para não gerar custos desnecessários.
+
+### **Clean up**  
+Como é recomendado na documentção, senão se pretende fazer mais exercícios, excluir todos os recursos que não precisa mais. Isso evita acumular custos desnecessários.  
+>    1. Abra o portal do Azure (<https://portal.azure.com/>) e selecione o grupo de recursos que contém o recurso que você criou.  
+>    2. Selecione o recurso e selecione Excluir e depois Sim para confirmar. O recurso é então excluído.  
+
+-------
+
 -------
