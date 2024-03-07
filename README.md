@@ -91,7 +91,10 @@ Foram salvas as imagens, utilizadas observando os nomes para manter a ordem em q
 
 >[!NOTE]
 >
->Os arquivos de imagens foram baixados em (https://aka.ms/mslearn-detect-faces), para o arquivo 'detect-faces.zip'.
+>Os arquivos de imagens foram baixados nas etapas:
+> 4.1. (https://aka.ms/mslearn-detect-faces), para o arquivo 'detect-faces.zip';  
+> 4.2. ( https://aka.ms/mslearn-ocr-images), para o arquivo 'ocr-images.zip'; e,   
+> 4.3. (https://aka.ms/mslearn-ocr-images), para o arquivo 'ocr-images.zip'.  
 >
 -------
 
