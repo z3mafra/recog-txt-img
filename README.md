@@ -195,6 +195,19 @@ As legendas das imagens estão disponíveis por meio dos recursos Caption e Dens
 
 ### 4.3. Insights e Possibilidades aprendidas  
 
+Seguem alguns insights e possibilidades que podem ser desenvolvidos em aplicações práticas com esses trÊs recursos.  
+
+**Detect Faces**: Este recurso pode ser utilizado em sistemas de segurança para identificar pessoas em tempo real em locais públicos ou privados, como aeroportos ou prédios corporativos. Também pode ser empregado em aplicativos de organização de fotos, automatizando o processo de marcação de pessoas. Além disso, em aplicações de entretenimento, como filtros de redes sociais, pode proporcionar uma experiência interativa aos usuários.[[1](https://learn.microsoft.com/pt-br/visualstudio/ide/navigating-code?view=vs-2022)]  
+   
+Read Text: Essa funcionalidade é útil para aplicativos de acessibilidade, convertendo texto em imagens em texto legível por máquina para pessoas com deficiência visual. Em ambientes empresariais, pode ser utilizado para automatizar a extração de informações de documentos, como faturas e contratos. Além disso, em aplicativos de tradução instantânea, pode ajudar os usuários a entenderem conteúdos em diferentes idiomas.[[2](https://azure.microsoft.com/pt-br/)]  
+
+Analyze Images: Esse recurso permite extrair insights valiosos de imagens. Em aplicações de saúde, pode ser utilizado para analisar imagens médicas, auxiliando médicos no diagnóstico de doenças. Em comércio eletrônico, pode ser usado para recomendar produtos com base nas preferências do usuário, analisando suas interações visuais. Além disso, em aplicativos de segurança, pode identificar objetos perigosos em imagens de vigilância.[[3](https://medium.com/cwi-software/reconhecimento-facial-com-python-b2d0981a1aaa)]    
+
+🌐 Sources  
+[[1] learn.microsoft.com - Opções de revisão para navegar pelo código no editor](https://learn.microsoft.com/pt-br/visualstudio/ide/navigating-code?view=vs-2022)  
+[[2] azure.microsoft.com - Microsoft Azure: Serviços de computação em nuvem](https://azure.microsoft.com/pt-br/)  
+[[3] medium.com - Reconhecimento Facial com Python](https://medium.com/cwi-software/reconhecimento-facial-com-python-b2d0981a1aaa)  
+
 -------
 
 ## 5. Compartilhe conosco o link desse repositório através do botão 'entregar projeto'  
