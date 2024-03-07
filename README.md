@@ -148,20 +148,13 @@ Configuração do Detect faces no Vision Studio:
 >- 3. Marcar o check box "Try It Out subheading, acknowledge the resource usage policy".  
 >- 4. Selecionar as images de exemplo e observar as informações retornadas.  
 >- 5. Now let’s try with some of our own images. Select https://aka.ms/mslearn-detect-faces to download detect-faces.zip. Then open the folder on your computer.  
-
-
-    6. Locate the file named store-camera-1.jpg; which contains the following image:  
+>-  6. Locate the file named store-camera-1.jpg; which contains the following image:  
 
 <img src="https://github.com/z3mafra/recog-txt-img/blob/main/inputs/detect-faces-store-camera-1.jpg" width="50%">
 
-    7. Upload store-camera-1.jpg and review the face detection details that are returned.  
-    8. Locate the file named store-camera-2.jpg; which contains the following image:  
+>- 7. Observe e revise os detalhes de detecção de rosto retornados, conforme mostrado aqui:  
 
 <img src="https://github.com/z3mafra/recog-txt-img/blob/main/output/detect-faces-output-store-camera-1.jpg" width="50%">
-
-
-    9. Upload store-camera-2.jpg and review the face detection details that are returned.  
-    10. Locate the file named store-camera-3.jpg; which contains the following image:  
   
 #### *4.2.2. Read text*  
 
@@ -183,6 +176,21 @@ Configuração para extrir texto de imagens no Vision Studio:
  
 #### *4.2.3. Analyze images*  
 
+Vejamos a funcionalidade de gerar legendas para uma imagem, do Azure AI Vision.  
+As legendas das imagens estão disponíveis por meio dos recursos Caption e Dense Captions.  
+
+>- 1. Em um navegador da web, navegue até Vision Studio. Vision Studio.
+>- 2. Na página inicial Getting started with Vision, selecione a guia Image analysis e, em seguida, selecione o bloco Add captions to images. 
+>- 3. No subtítulo "Try It Out", ler o termo e marcar o check box “acknowledge the resource usage policy”.
+>- 4. Selecionar imagens em (https://aka.ms/mslearn-images-for-analysis) para baixar o arquivo "image-analysis.zip". Abrir folder no computador.  
+>- 5. Localizar e subir o arquivo nameado 'image-analysis-store-camera-4.jpg'; que contém a seguinte imagem:  
+
+<img src="https://github.com/z3mafra/recog-txt-img/blob/main/inputs/image-analysis-store-camera-4.jpg" width="50%">
+
+>- 7. Observe a informação que retorna da análise. Na imagem, a localização do texto é indicada por uma caixa delimitadora, conforme mostrado aqui:  
+
+<img src="https://github.com/z3mafra/recog-txt-img/blob/main/output/image-analysis-output-store-camera-4.jpg" width="50%">  
+  
 -------
 
 ### 4.3. Insights e Possibilidades aprendidas  
