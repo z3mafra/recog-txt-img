@@ -107,7 +107,7 @@ Detect faces no Vision Studio
 ![detect-faces-store-camera-1.jpg](https://github.com/z3mafra/recog-txt-img/blob/main/inputs/detect-faces-store-camera-1.jpg)  
 
 
-<img src="[drawing.jpg](https://github.com/z3mafra/recog-txt-img/blob/main/inputs/detect-faces-store-camera-1.jpg)" alt="drawing" width="50%"/>
+<img src="[https://github.com/z3mafra/recog-txt-img/blob/main/inputs/detect-faces-store-camera-1.jpg]" alt="drawing" width="50%"/>
     7. Upload store-camera-1.jpg and review the face detection details that are returned.  
     8. Locate the file named store-camera-2.jpg; which contains the following image:  
        
