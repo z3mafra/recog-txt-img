@@ -104,7 +104,7 @@ Detect faces no Vision Studio
 
     6. Locate the file named store-camera-1.jpg; which contains the following image:  
 
-![detect-faces-store-camera-1.jpg](https://github.com/z3mafra/recog-txt-img/blob/main/inputs/detect-faces-store-camera-1.jpg){width=250px}  
+![detect-faces-store-camera-1.jpg](https://github.com/z3mafra/recog-txt-img/blob/main/inputs/detect-faces-store-camera-1.jpg){: width="50%"}  
 
 
 <img src="[https://github.com/z3mafra/recog-txt-img/inputs/detect-faces-store-camera-1.jpg]" alt="drawing" width="50%"/>
