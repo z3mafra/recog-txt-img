@@ -133,9 +133,11 @@ Foram abordados três processos de identificação no Vision Studio: Detect face
 
 Nos três casos é necessário criar um recurso Azure AI services, na própria inscrição Azure.  
 
+*Configurando para o Visio Studio*:
+>
 >- 1. Entrar no portal Azure (https://portal.azure.com).  
 >- 2. Clicar no botão ＋Create a resource e encnotrar o Azure AI services. Selecionei "criar um plano Azure AI services".  
->-    >> Na pagina para criar o recurso Azure AI services, configurei os seguintes itens:  
+>     >> Na pagina para criar o recurso Azure AI services, configurei os seguintes itens:  
 >     >> - Subscription: Azure subscription 1.  
 >     >> - Resource group: LabVision.  
 >     >> - Region: East US.  
@@ -144,7 +146,7 @@ Nos três casos é necessário criar um recurso Azure AI services, na própria i
 >     >> - Selecinei o check box: "I acknowledge that I have read and understood all the terms below.  
 >- 3. Selecionei Review + create then Create e aguardei a implantação se completar.
 
-Na página "Select a resource to work with", passando o cursor do mouse sobre o recurso criado na lista, marcar o check box á esquerda do nomr do recurso, depois clicar no botão "Select as default resource".  
+Na página "Select a resource to work with", passando o cursor do mouse sobre o recurso criado na lista, marcar o check box à esquerda do nome do recurso, depois clicar no botão "Select as default resource".  
 Com isso a configuração básica do Visioon Studio está pronta e pode-se trabalhar com as ferramentas de identificação disponíveis.
 
 #### *4.2.1. Detect faces*  
@@ -203,7 +205,7 @@ As legendas das imagens estão disponíveis por meio dos recursos Caption e Dens
 
 ### 4.3. Insights e Possibilidades aprendidas  
 
-Seguem alguns insights e possibilidades que podem ser desenvolvidos em aplicações práticas com esses trÊs recursos.  
+São muitas as ideias e aplicações possíveis quando se pensa nas possibilidades aprendidas durante conteúdo deste desafio. Seguem alguns insights e possibilidades que podem ser desenvolvidos em aplicações práticas com esses três recursos.  
 
 **Detect Faces**: Este recurso pode ser utilizado em sistemas de segurança para identificar pessoas em tempo real em locais públicos ou privados, como aeroportos ou prédios corporativos. Também pode ser empregado em aplicativos de organização de fotos, automatizando o processo de marcação de pessoas. Além disso, em aplicações de entretenimento, como filtros de redes sociais, pode proporcionar uma experiência interativa aos usuários.[[1](https://learn.microsoft.com/pt-br/visualstudio/ide/navigating-code?view=vs-2022)]  
    
