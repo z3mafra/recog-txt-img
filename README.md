@@ -58,7 +58,7 @@ No GItHub foi criado o diretório 'inputs' no repositório recog-txt-img
 > - Dentro do diretório 'inputs': "Add File".  
 > - Opção: Upload files.
 
-[ icon tipo="solid" id="arrow-up-from-bracket" ]
+<i class="fa-solid fa-arrow-up-from-bracket"></i>
 
 > - Cliquei em "Criar repositório".  
 > - .  
