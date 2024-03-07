@@ -179,7 +179,7 @@ Configuração para extrir texto de imagens no Vision Studio:
 Vejamos a funcionalidade de gerar legendas para uma imagem, do Azure AI Vision.  
 As legendas das imagens estão disponíveis por meio dos recursos Caption e Dense Captions.  
 
->- 1. Em um navegador da web, navegue até Vision Studio. Vision Studio.
+>- 1. Em um navegador da web, navegue até Vision Studio (https://portal.vision.cognitive.azure.com).  
 >- 2. Na página inicial Getting started with Vision, selecione a guia Image analysis e, em seguida, selecione o bloco Add captions to images. 
 >- 3. No subtítulo "Try It Out", ler o termo e marcar o check box “acknowledge the resource usage policy”.
 >- 4. Selecionar imagens em (https://aka.ms/mslearn-images-for-analysis) para baixar o arquivo "image-analysis.zip". Abrir folder no computador.  
