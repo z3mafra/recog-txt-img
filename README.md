@@ -27,7 +27,7 @@ $ git init
 
 No GItHub foi criado o repositório recog-txt-img
 
-> Comandos
+> Comandos/configurações:  
 > 
 > - "Novo repositório".  
 > - Nome para o repositório: "auto-machine-learning".  
@@ -47,8 +47,19 @@ Na maquina local, na raiz do repositório 'regog-txt-img', foi crido o diretóri
 $ mkdir inputs
 '''  
 
-Foram salvas as imagens, utilizadas observando os nomes para manter a ordem em que foram testadas, em quatro grupos: detect-faces-store-camera; exm-ocr-images; image-analysis-store-camera.  
-  
+No GItHub foi criado o diretório 'inputs' no repositório recog-txt-img
+
+> Comandos/configurações:  
+> 
+> - Botão: "Add File".  
+> - Opção: + Create new file.  
+> - Preenchi: inputs/test.md  
+> - Opção: Commit changes.  
+> - Dentro do diretório 'inputs': "Add File".  
+> - Opção: :upload files: Upload files.  
+> - Cliquei em "Criar repositório".  
+> - .  
+
 -------
 
 ## 3. Criar uma pasta chamado 'output' e salve os resultados de reconhecimento de texto nessas imagens  
