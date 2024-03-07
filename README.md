@@ -89,9 +89,9 @@ No GItHub foi criado o diretório 'inputs' no repositório recog-txt-img
 
 Foram salvas as imagens, utilizadas observando os nomes para manter a ordem em que foram testadas, em quatro grupos: detect-faces-output-store-camera; exm-ocr-output-images; image-analysis-output-store-camera.  
 
->[!NOTE]
+>[!NOTA]
 >
->Os arquivos de imagens foram baixados nas etapas:
+>Os arquivos de imagens foram baixados nas etapas:  
 > 4.1. (https://aka.ms/mslearn-detect-faces), para o arquivo 'detect-faces.zip';  
 > 4.2. ( https://aka.ms/mslearn-ocr-images), para o arquivo 'ocr-images.zip'; e,   
 > 4.3. (https://aka.ms/mslearn-ocr-images), para o arquivo 'ocr-images.zip'.  
