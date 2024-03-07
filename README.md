@@ -177,7 +177,7 @@ Configuração para extrir texto de imagens no Vision Studio:
 
 >- 7. Observe a informação que retorna da análise. Na imagem, a localização do texto é indicada por uma caixa delimitadora, conforme mostrado aqui:  
 
-<img src="https://github.com/z3mafra/recog-txt-img/blob/main/output/exm-ocr-images-output-advert.jpg" width="50%">
+<img src="https://github.com/z3mafra/recog-txt-img/blob/main/output/exm-ocr-output-images-advert.jpg" width="50%">
 
 -------
  
