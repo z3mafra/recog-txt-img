@@ -129,7 +129,7 @@ Nos três casos é necessário criar um recurso Azure AI services, na própria i
 >-   - Selecinei o check box: "I acknowledge that I have read and understood all the terms below.  
 >- 3. Selecionei Review + create then Create e aguardei a implantação se completar.
 
-Na página "Select a resource to work with", passando o cursor do mouse sobre o recurso criado na lista, marcar o check box á esquerda do nomr do recurso, depois clicar no botão "Select as default resource". 
+Na página "Select a resource to work with", passando o cursor do mouse sobre o recurso criado na lista, marcar o check box á esquerda do nomr do recurso, depois clicar no botão "Select as default resource".  
 Com isso a configuração básica do Visioon Studio está pronta e pode-se trabalhar com as ferramentas de identificação disponíveis.
 
 #### *4.2.1. Detect faces*  
