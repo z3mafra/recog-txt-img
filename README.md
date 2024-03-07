@@ -187,7 +187,7 @@ As legendas das imagens estão disponíveis por meio dos recursos Caption e Dens
 
 <img src="https://github.com/z3mafra/recog-txt-img/blob/main/inputs/image-analysis-store-camera-4.jpg" width="50%">
 
->- 6. 6. Observe o texto da legenda gerada, visível no painel Atributos detectados à direita da imagem. A funcionalidade Caption fornece uma frase única e legível que descreve o conteúdo da imagem, conforme mostrado aqui:  
+>- 6. Observe o texto da legenda gerada, visível no painel Atributos detectados à direita da imagem. A funcionalidade Caption fornece uma frase única e legível que descreve o conteúdo da imagem, conforme mostrado aqui:  
 
 <img src="https://github.com/z3mafra/recog-txt-img/blob/main/output/image-analysis-output-store-camera-4.jpg" width="50%">  
   
