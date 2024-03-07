@@ -56,7 +56,8 @@ No GItHub foi criado o diretório 'inputs' no repositório recog-txt-img
 > - Preenchi: inputs/test.md  
 > - Opção: Commit changes.  
 > - Dentro do diretório 'inputs': "Add File".  
-> - Opção: ![Upload files](https://fontawesome.com/icons/arrow-up-from-bracket?f=classic&s=solid)  
+> - Opção:
+![Upload files](https://fontawesome.com/icons/arrow-up-from-bracket?f=classic&s=solid)  
 > - Cliquei em "Criar repositório".  
 > - .  
 
