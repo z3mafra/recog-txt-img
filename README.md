@@ -100,6 +100,8 @@ Detect faces no Vision Studio
     3. Under the Try It Out subheading, acknowledge the resource usage policy by reading and checking the box.  
     4. Select each of the sample images and observe the face detection data that is returned.  
     5. Now let’s try with some of our own images. Select https://aka.ms/mslearn-detect-faces to download detect-faces.zip. Then open the folder on your computer.  
+
+
     6. Locate the file named store-camera-1.jpg; which contains the following image:  
 
 ![detect-faces-store-camera-1.jpg](https://github.com/z3mafra/recog-txt-img/blob/main/inputs/detect-faces-store-camera-1.jpg)  
