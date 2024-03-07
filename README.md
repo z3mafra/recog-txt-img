@@ -226,10 +226,12 @@ Antes de finalizar o desafio, uma providência importate é limpar (Clean up) o 
 
 ### **Clean up**  
 Como é recomendado na documentção, senão se pretende fazer mais exercícios, excluir todos os recursos que não precisa mais. Isso evita acumular custos desnecessários.  
+
 >    1. Abra o portal do Azure (<https://portal.azure.com/>) e selecione o grupo de recursos que contém o recurso que você criou.  
 >    2. Selecione o recurso e selecione Excluir e depois Sim para confirmar. O recurso é então excluído.
 >
-
+>>  - **Observação:** Uma curiosidade que, nesta etapa, a plataforma informou que o consumo de recursos na modalidade de acesso gratuito, foi de R$ 0,79. Restando ainda um crédito de R$ 988,18.
+ 
 ### **Postar link do repositório**
 Como é recomendado na documentção, senão se pretende fazer mais exercícios, excluir todos os recursos que não precisa mais. Isso evita acumular custos desnecessários.  
 >    1. Abra o portal da DIO (<https://www.dio.me/>), com as credenciais e selecione o [Bootcamp Microsoft AZure AI Fundamentals](https://web.dio.me/track/microsoft-azure-ai-fundamentals).
