@@ -147,8 +147,8 @@ Configuração do Detect faces no Vision Studio:
 >- 2. Na página "Getting started with Vision", selecinar a aba "Face" e o card "Detect Faces".  
 >- 3. Marcar o check box "Try It Out subheading, acknowledge the resource usage policy".  
 >- 4. Selecionar as images de exemplo e observar as informações retornadas.  
->- 5. Now let’s try with some of our own images. Select https://aka.ms/mslearn-detect-faces to download detect-faces.zip. Then open the folder on your computer.  
->-  6. Locate the file named store-camera-1.jpg; which contains the following image:  
+>- 5. Selecionar imagens em (https://aka.ms/mslearn-detect-faces) para baixar o arquivo "detect-faces.zip". Abrir folder no computador.  
+>- 6. Localizar e subir o arquivo nameado 'store-camera-1.jpg'que contém a seguinte imagem:  
 
 <img src="https://github.com/z3mafra/recog-txt-img/blob/main/inputs/detect-faces-store-camera-1.jpg" width="50%">
 
@@ -164,7 +164,7 @@ Configuração para extrir texto de imagens no Vision Studio:
 >- 2. Na página "Getting started with Vision", selecinar a aba "Optical character recognition”, e o card com o título "Extract text from images”.
 >- 3. Marcar o check box "Try It Out subheading, acknowledge the resource usage policy".  
 >- 4. Selecionar imagens em (https://aka.ms/mslearn-ocr-images) para baixar o arquivo "ocr-images.zip". Abrir folder no computador.  
->- 5. Localizar e subir o arquivo nameado 'exm-ocr-images-advert.jpg'; que contém a seguinte imagem:  
+>- 5. Localizar e subir o arquivo nameado 'exm-ocr-images-advert.jpg', que contém a seguinte imagem:  
 
 <img src="https://github.com/z3mafra/recog-txt-img/blob/main/inputs/exm-ocr-images-advert.jpg" width="50%">
 
@@ -187,7 +187,7 @@ As legendas das imagens estão disponíveis por meio dos recursos Caption e Dens
 
 <img src="https://github.com/z3mafra/recog-txt-img/blob/main/inputs/image-analysis-store-camera-4.jpg" width="50%">
 
->- 7. Observe a informação que retorna da análise. Na imagem, a localização do texto é indicada por uma caixa delimitadora, conforme mostrado aqui:  
+>- 6. 6. Observe o texto da legenda gerada, visível no painel Atributos detectados à direita da imagem. A funcionalidade Caption fornece uma frase única e legível que descreve o conteúdo da imagem, conforme mostrado aqui:  
 
 <img src="https://github.com/z3mafra/recog-txt-img/blob/main/output/image-analysis-output-store-camera-4.jpg" width="50%">  
   
