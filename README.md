@@ -89,6 +89,10 @@ No GItHub foi criado o diretório 'inputs' no repositório recog-txt-img
 
 Foram salvas as imagens, utilizadas observando os nomes para manter a ordem em que foram testadas, em quatro grupos: detect-faces-output-store-camera; exm-ocr-output-images; image-analysis-output-store-camera.  
 
+>[!NOTE]
+>
+>Os arquivos de imagens foram baixados em (https://aka.ms/mslearn-detect-faces), para o arquivo 'detect-faces.zip'.
+>
 -------
 
 ## 4. Criar um arquivo readme.md, incluir Prints e descrição do processo, Insights e Possibilidades aprendidas  
@@ -120,7 +124,7 @@ Nos três casos é necessário criar um recurso Azure AI services, na própria i
 
 >- 1. Entrar no portal Azure (https://portal.azure.com).  
 >- 2. Clicar no botão ＋Create a resource e encnotrar o Azure AI services. Selecionei "criar um plano Azure AI services".  
->-    >> Na pagina para criar o recurso Azure AI services, Configurei os seguintes itens:  
+>-    >> Na pagina para criar o recurso Azure AI services, configurei os seguintes itens:  
 >     >> - Subscription: Azure subscription 1.  
 >     >> - Resource group: LabVision.  
 >     >> - Region: East US.  
@@ -134,13 +138,13 @@ Com isso a configuração básica do Visioon Studio está pronta e pode-se traba
 
 #### *4.2.1. Detect faces*  
 
-Detect faces no Vision Studio  
+Configuração do Detect faces no Vision Studio:  
 
-    1. In a web browser, navigate to Vision Studio at https://portal.vision.cognitive.azure.com.  
-    2. On the Getting started with Vision landing page, select the Face tab and then select the Detect Faces in an image tile.  
-    3. Under the Try It Out subheading, acknowledge the resource usage policy by reading and checking the box.  
-    4. Select each of the sample images and observe the face detection data that is returned.  
-    5. Now let’s try with some of our own images. Select https://aka.ms/mslearn-detect-faces to download detect-faces.zip. Then open the folder on your computer.  
+>- 1. No navegador, ir até o Vision Studio (https://portal.vision.cognitive.azure.com).  
+>- 2. Na página "Getting started with Vision", selecinar a aba "Face" e o card "Detect Faces".  
+>- 3. Marcar o check box "Try It Out subheading, acknowledge the resource usage policy".  
+>- 4. Selecionar as images de exemplo e observar as informações retornadas.  
+>- 5. Now let’s try with some of our own images. Select https://aka.ms/mslearn-detect-faces to download detect-faces.zip. Then open the folder on your computer.  
 
 
     6. Locate the file named store-camera-1.jpg; which contains the following image:  
