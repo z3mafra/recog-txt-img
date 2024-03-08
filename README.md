@@ -25,7 +25,7 @@ Depois, iniciei o diretório como um repositório no Git.
 $ git init
 '''
 
-No GItHub foi criado o repositório recog-txt-img
+No GitHub foi criado o repositório recog-txt-img
 
 > Comandos/configurações:  
 > 
@@ -47,7 +47,7 @@ Na maquina local, na raiz do repositório 'regog-txt-img', foi crido o diretóri
 $ mkdir inputs
 '''  
 
-No GItHub foi criado o diretório 'inputs' no repositório recog-txt-img
+No GitHub foi criado o diretório 'inputs' no repositório recog-txt-img
 
 > Comandos/configurações:  
 > 
@@ -80,7 +80,7 @@ Na maquina local, na raiz do repositório 'regog-txt-img', foi crido o diretóri
 $ mkdir output
 '''  
 
-No GItHub foi criado o diretório 'inputs' no repositório recog-txt-img
+No GitHub foi criado o diretório 'inputs' no repositório recog-txt-img
 
 > Comandos/configurações:  
 > 
@@ -112,7 +112,7 @@ Foram salvas as imagens, utilizadas observando a codificação dos nomes para ma
 
 ### 4.1. Criar um arquivo readme.md  
 
-No GItHubna raiz do repositório 'regog-txt-img', foi crido o arquivo 'readme.md'.
+No GitHub na raiz do repositório 'regog-txt-img', foi crido o arquivo 'readme.md'.
 
 > Comandos/configurações:  
 >  
