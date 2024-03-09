@@ -80,7 +80,7 @@ Na maquina local, na raiz do repositório 'regog-txt-img', foi crido o diretóri
 $ mkdir output
 '''  
 
-No GitHub foi criado o diretório 'inputs' no repositório recog-txt-img
+No GitHub foi criado o diretório 'output' no repositório recog-txt-img
 
 > Comandos/configurações:  
 > 
