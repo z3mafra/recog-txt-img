@@ -15,15 +15,15 @@ Desafio:
 
 Na maquina local foi crido o diretório 'recog-txt-ing'  
 
-'''bash
+~~~bash
 $ mkdir regog-txt-img
-'''  
+~~~  
 
 Depois, iniciei o diretório como um repositório no Git.
 
-'''bash
+~~~bash
 $ git init
-'''
+~~~
 
 No GitHub foi criado o repositório recog-txt-img
 
@@ -43,9 +43,9 @@ No GitHub foi criado o repositório recog-txt-img
 
 Na maquina local, na raiz do repositório 'regog-txt-img', foi crido o diretório 'inputs'  
 
-'''bash
+~~~bash
 $ mkdir inputs
-'''  
+~~~  
 
 No GitHub foi criado o diretório 'inputs' no repositório recog-txt-img
 
@@ -76,9 +76,9 @@ Foram salvas as imagens, utilizadas observando a codificação dos nomes para ma
 
 Na maquina local, na raiz do repositório 'regog-txt-img', foi crido o diretório 'output'  
 
-'''bash
+~~~bash
 $ mkdir output
-'''  
+~~~  
 
 No GitHub foi criado o diretório 'output' no repositório recog-txt-img
 
