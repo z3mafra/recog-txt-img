@@ -30,7 +30,7 @@ No GitHub foi criado o repositório recog-txt-img
 > Comandos/configurações:  
 > 
 > - "Novo repositório".  
-> - Nome para o repositório: "auto-machine-learning".  
+> - Nome para o repositório: "recog-txt-img".  
 > - Descrição: "Projeto Vision Studio com três processos de identificação: Detect faces; Read text; e, Analyze images.".  
 > - Visibilidade: "pública".  
 > - Opção: LEIAME.  
