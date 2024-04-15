@@ -16,7 +16,7 @@ Desafio:
 Na maquina local foi crido o diretório 'recog-txt-ing'  
 
 ~~~bash
-$ mkdir regog-txt-img
+$ mkdir recog-txt-img
 ~~~  
 
 Depois, iniciei o diretório como um repositório no Git.
@@ -41,7 +41,7 @@ No GitHub foi criado o repositório recog-txt-img
 
 ## 2. Criar uma pasta chamada 'inputs' e salve as imagens que você utilizou  
 
-Na maquina local, na raiz do repositório 'regog-txt-img', foi crido o diretório 'inputs'  
+Na maquina local, na raiz do repositório 'recog-txt-img', foi crido o diretório 'inputs'  
 
 ~~~bash
 $ mkdir inputs
@@ -74,7 +74,7 @@ Foram salvas as imagens, utilizadas observando a codificação dos nomes para ma
 
 ## 3. Criar uma pasta chamado 'output' e salve os resultados de reconhecimento de texto nessas imagens  
 
-Na maquina local, na raiz do repositório 'regog-txt-img', foi crido o diretório 'output'  
+Na maquina local, na raiz do repositório 'recog-txt-img', foi crido o diretório 'output'  
 
 ~~~bash
 $ mkdir output
@@ -112,7 +112,7 @@ Foram salvas as imagens, utilizadas observando a codificação dos nomes para ma
 
 ### 4.1. Criar um arquivo readme.md  
 
-No GitHub na raiz do repositório 'regog-txt-img', foi crido o arquivo 'readme.md'.
+No GitHub na raiz do repositório 'recog-txt-img', foi crido o arquivo 'readme.md'.
 
 > Comandos/configurações:  
 >  
